@@ -8,7 +8,7 @@
 
 An LSB2 Steganography Encoder / Decoder which hides plain text in PNG Images
 
-## About the project
+## About the Project
 
 This is first part of the **Steganography Made Fun!** toolkit
 
