@@ -8,7 +8,15 @@
 
 An LSB2 Steganography Encoder / Decoder which hides plain text in PNG Images
 
-This is Part 1/3 of the "Steganography made fun!" toolkit
+## About the project
+
+This is first part of the **Steganography Made Fun!** toolkit
+
+This toolkit has three parts divided into three repositories:
+
+- Part 1: [The TXT Hider](https://sagardevachar.github.io/TheTXTHider/) (This Repository)
+- Part 2: [The MP3 Photographer](https://sagardevachar.github.io/TheMP3Photographer/)
+- Part 3: [The PNG Musician](https://sagardevachar.github.io/ThePNGMusician/)
 
 ## Repository Structure
 
