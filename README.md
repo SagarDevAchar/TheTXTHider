@@ -12,7 +12,7 @@ An LSB2 Steganography Encoder / Decoder which hides plain text in PNG Images
 
 This is first part of the **Steganography Made Fun!** toolkit
 
-This toolkit has three parts divided into three repositories:
+The toolkit has three parts divided into three repositories:
 
 - Part 1: [The TXT Hider](https://sagardevachar.github.io/TheTXTHider/) (This Repository)
 - Part 2: [The MP3 Photographer](https://sagardevachar.github.io/TheMP3Photographer/)
@@ -28,7 +28,17 @@ This toolkit has three parts divided into three repositories:
 
 ## Usage Instructions
 
-1. ?
+1. Just let things be where they are (relatively)
+2. For Steganography:
+    - Place your target image in **PNG** or **JPG** or **JPEG** format with the file name `image` under the `FILES\` directory
+    - Type in your text in the `text.txt` file under the `FILES\` directory
+    - Run `The TXT Hider.py` using the IDE of your choice or via CMD using the `python "The TXT Hider.py"` command
+    - Obtain the Steganographically Encoded PNG file in the `FILES\` directory with the name `image_stegano.png`
+3. For Reverse Steganography
+    - Place the encoded image with name `image_stegano.png` under the `FILES\` directory
+    - Run `The TXT Hider.py` using the IDE of your choice or via CMD using the `python "The TXT Hider.py"` command
+    - Observe the decoded text on the command line interface
+
 
 ## Requirements
 
