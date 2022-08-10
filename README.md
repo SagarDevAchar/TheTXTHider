@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/51400137/183978234-0502b007-17e7-4ad8-8023-0ce10b1a2a56.png)
 
-![Active Version](https://img.shields.io/badge/version-v2022.07.19-blue)
+[![Active Version](https://img.shields.io/badge/version-v2022.07.19-blue)](https://github.com/SagarDevAchar/TheTXTHider/releases/download/release/The.TXT.Hider.v2022.07.19.zip)
 [![GitHub issues](https://img.shields.io/github/issues/SagarDevAchar/TheTXTHider)](https://github.com/SagarDevAchar/TheTXTHider/issues)
 [![GitHub license](https://img.shields.io/github/license/SagarDevAchar/TheTXTHider)](https://github.com/SagarDevAchar/TheTXTHider/blob/main/LICENSE)
 
