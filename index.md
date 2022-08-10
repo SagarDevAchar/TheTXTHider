@@ -26,7 +26,7 @@ Image Steganography usually stores data in the LSB bits of the pixel brightness 
 
 - `FILES\` : This is where the program looks for files and writes new files into
 - `LICENSE` : GNU GPL v3.0 License for [The TXT Hider](https://github.com/SagarDevAchar/TheTXTHider)
-- `README.md` : Release Information
+- `README.txt` : Release Information
 - `The TXT Hider.exe` : Executable for Windows Devices (built using PyInstaller)
 
 ## Repository Structure
