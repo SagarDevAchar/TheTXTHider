@@ -5,9 +5,13 @@
 
 ![TPM TMP Logo 1](https://user-images.githubusercontent.com/51400137/183991932-b38b05ec-81bf-454f-bb84-9358d8bacd83.png)
 
-# [The TXT Hider](https://github.com/SagarDevAchar/TheTXTHider/releases/download/release/The.TXT.Hider.v2022.07.19.zip)
+# The TXT Hider
 
-Part 1 of the **Steganography Made Fun!** Toolkit. Click on the heading above to download the latest release
+An LSB2 Steganography Encoder / Decoder which hides plain text in PNG Images
+
+Part 1 of the **Steganography Made Fun!** Toolkit
+- [Latest Release / Executables](https://github.com/SagarDevAchar/TheTXTHider/releases/download/release/The.TXT.Hider.v2022.07.19.zip)
+- [Source Code](https://github.com/SagarDevAchar/TheTXTHider/archive/refs/tags/release.zip)
 
 ## About the Project
 
